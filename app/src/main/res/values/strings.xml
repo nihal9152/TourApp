@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tour App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="attr">Attractions</string>
+    <string name="res">Restaurants</string>
+    <string name="eve">Events</string>
+</resources>
